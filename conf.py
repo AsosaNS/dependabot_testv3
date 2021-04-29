@@ -11,13 +11,6 @@ import os
 
 # -- Preparation ----------------------------------------------------------
 
-import httpolice
-import httpolice.inputs
-import httpolice.reports.html
-
+import bugcrowd.html
 # Special page:
 # ``bugcrowd.html``
-
-
-with io.open('bugcrowd.html', 'wb') as notices_file:
-    httpolice.reports.html.list_notices(notices_file)

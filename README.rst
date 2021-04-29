@@ -5,10 +5,6 @@ DVPWA -- Damn Vulnerable Python Web Application
 Description
 ===========
 
-<script async
- src="https://bugcrowd.com/8acfcb88-5347-48fe-b08b-ca5899bb6dd5/external/script"
- data-bugcrowd-program="https://bugcrowd.com/8acfcb88-5347-48fe-b08b-ca5899bb6dd5/external/report"></script>
-
 DVPWA was inspired by famous `dvwa`_ project and `bobby-tables xkcd comics`_.
 The purpose of this project is to implement real-world like application in
 Python with as many vulnerabilities as possible while having a good design and
